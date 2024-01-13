@@ -19,47 +19,47 @@ local L_4_ = L_1_:CreateWindow({
 local L_5_ = {
 	Main = L_4_:AddTab({
 		Title = "Main",
-		Icon = "home"
+		Icon = ""
 	}),
 	Setting = L_4_:AddTab({
 		Title = "Setting",
-		Icon = "settings"
+		Icon = ""
 	}),
 	Stats = L_4_:AddTab({
 		Title = "Stats",
-		Icon = "plus-circle"
+		Icon = ""
 	}),
 	Player = L_4_:AddTab({
 		Title = "Player",
-		Icon = "baby"
+		Icon = ""
 	}),
 	Teleport = L_4_:AddTab({
 		Title = "Island",
-		Icon = "palmtree"
+		Icon = ""
 	}),
 	Fruit = L_4_:AddTab({
 		Title = "Fruit",
-		Icon = "cherry"
+		Icon = ""
 	}),
 	Raid = L_4_:AddTab({
 		Title = "Raid",
-		Icon = "swords"
+		Icon = ""
 	}),
 	Race = L_4_:AddTab({
 		Title = "Race V4",
-		Icon = "chevrons-right"
+		Icon = ""
 	}),
 	Shop = L_4_:AddTab({
 		Title = "Shop",
-		Icon = "shopping-cart"
+		Icon = ""
 	}),
 	Misc = L_4_:AddTab({
 		Title = "Misc",
-		Icon = "list-plus"
+		Icon = ""
 	}),
 	Hop = L_4_:AddTab({
 		Title = "Hop",
-		Icon = "wifi"
+		Icon = ""
 	}),
 }
 local L_6_ = L_1_.Options
@@ -2639,7 +2639,7 @@ do
 	L_92_.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 	L_92_.Size = UDim2.new(0, 50, 0, 50)
 	L_92_.Font = Enum.Font.SourceSans
-	L_92_.Text = "Open|Close"
+	L_92_.Text = "Open"
 	L_92_.TextColor3 = Color3.fromRGB(255, 255, 255)
 	L_92_.TextSize = 14.000
 	L_92_.Draggable = true
